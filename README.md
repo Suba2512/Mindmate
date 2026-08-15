@@ -1,12 +1,12 @@
-# 🧠 MINDMATE PRO - AI-Powered Adaptive Learning Ecosystem
+#  MINDMATE PRO - AI-Powered Adaptive Learning Ecosystem
 
-> ⚠️ **DISCLAIMER & NOTICE**  
+> **DISCLAIMER & NOTICE**  
 > **This project is completely just a simple prototype made by vibe coding for hackathon demonstration purposes.**  
 > It showcases frontend interaction concepts, simulated AI diagnosis flows, and design vision. It is NOT a production-ready system.
 
 ---
 
-## 💡 About MINDMATE PRO
+##  About MINDMATE PRO
 
 *"It doesn't just check your answer. It understands your mistake."*
 
@@ -14,7 +14,7 @@ MINDMATE PRO is an AI-powered adaptive learning concept designed to solve a core
 
 ---
 
-## 🌟 Key Features Implemented in Prototype
+##  Key Features Implemented in Prototype
 
 1. **The WOW Moment**: Interactive side-by-side demonstration showing Student A (Concept Gap) vs. Student B (Sign Confusion) receiving completely different adaptive learning paths for the exact same wrong answer (`x = -2, -3`).
 2. **Diagnostic Pre-Test & AI Weak Area Predictor**: Pre-quiz simulator predicting weak areas using confidence ratings before teaching starts.
@@ -27,7 +27,7 @@ MINDMATE PRO is an AI-powered adaptive learning concept designed to solve a core
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18 + Vite + TypeScript
 - **Icons & Visuals**: Lucide React + Canvas Confetti
